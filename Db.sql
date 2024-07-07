@@ -1,0 +1,1 @@
+CREATE DATABASE hostel_database_management_system_project
