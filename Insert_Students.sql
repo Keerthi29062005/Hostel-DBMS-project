@@ -1,0 +1,17 @@
+INSERT INTO students VALUES('22EEB0B21', 'Keerthi Kammula', 'EEE', '6302991099', 'kk@gmail.com', 'female', 2, 'keerthi123');
+INSERT INTO students VALUES('22ECB0B25', 'Nilotpal', 'ECE', '19517418263', 'nb@gmail.com', 'male', 2, 'asdf123');
+INSERT INTO students VALUES ('22EEB0A24', 'Shivang Kaushal', 'EEE', '7896541238','ks@gmail.com', 'male', 2, 'ksbr');
+INSERT INTO students VALUES ('20BTB0B21', 'Sravani T', 'BT', '8526331454','st@gmail.com', 'female', 4, 'tsravs');
+INSERT INTO students VALUES('22EEB0B02', 'Nandana', 'EEE', '7412566902','kv@gmail.com', 'female', 2, 'vkks');
+INSERT INTO students VALUES ('21MEB0B21', 'Krishna K V', 'MED', '8529637410', 'kvksc@gmail.com', 'male', 3, 'kvkscmed');
+INSERT INTO students VALUES ('21MEB0B28', 'Vaishnavi k', 'MED', '8523600142', 'vkv@gmail.com', 'female', 3, 'kvsv10');
+INSERT INTO students VALUES('20CEB0B15', 'Rajasekhar k', 'CED', '6985741230', 'rk@gmail.com', 'male', 4, 'lambu');
+INSERT INTO students VALUES ('20CHB0C45', 'Rishik YS', 'Chem', '6521493335','ysr@gmail.com', 'male', 4, 'ysr69');
+INSERT INTO students VALUES ('20EEB0A29', 'Revanth Itte', 'EEE', '8625147963', 'riit@gmail.com', 'male', 4, 'iitrpr');
+INSERT INTO students VALUES ('22CEB0B61', 'Irfan H', 'CED', '9632541066', 'irfm@gmail.com', 'male', 2, 'mdirfan786');
+INSERT INTO students VALUES ('22ECB0B41', 'Varshini B', 'ECE', '9636985258', 'varb@gmail.com', 'female', 2, 'varshaa');
+INSERT INTO students VALUES('21CHB0B31', 'Madhavi P', 'Chem', '7895412630', 'mp@gmail.com', 'female', 3, 'mpcamp');
+INSERT INTO students VALUES('21CSB0B23', 'Ravichandra k', 'CSE', '7569284162', 'rck@gmail.com', 'male', 3, 'ravipuli');
+INSERT INTO students VALUES ('22CSB0B34', 'Naveen NS', 'CSE', '8500102030', 'nss@gmail.com', 'male', 2, 'naveensir');
+INSERT INTO students VALUES ('22BTB0B16', 'Preetham P', 'BT', '8562149003','pp@gmail.com', 'male', 2, 'ppandiri');
+INSERT INTO students VALUES ('20ECB0B27', 'Roshan kumar', 'ECE', '8526314925', 'ark@gmail.com', 'male', 4, 'arkab');
